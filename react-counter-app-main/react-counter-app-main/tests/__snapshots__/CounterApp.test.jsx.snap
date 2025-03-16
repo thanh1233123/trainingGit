@@ -1,0 +1,29 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Tests in <CounterApp /> > should match with snapshot 1`] = `
+<div>
+  <h1>
+    CounterApp
+  </h1>
+  <h2>
+     
+    100
+     
+  </h2>
+  <button
+    data-testid="btn-add"
+  >
+     +1 
+  </button>
+  <button
+    data-testid="btn-substract"
+  >
+     -1 
+  </button>
+  <button
+    data-testid="btn-reset"
+  >
+     Reset 
+  </button>
+</div>
+`;
